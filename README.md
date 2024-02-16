@@ -26,3 +26,4 @@ Together, let's empower academic integrity, foster DSA mastery, and create a bri
 
 
 ### Demo Video
+[![Watch the video](https://img.youtube.com/vi/S3DxOnbV8s0/maxresdefault.jpg)](https://youtu.be/S3DxOnbV8s0)</center>
