@@ -17,7 +17,7 @@ Together, let's empower academic integrity, foster DSA mastery, and create a bri
 
 ### Steps -
 1. Download and Install XAMPP.
-2. Copy bit2byte folder in htdocs folder of xampp.
+2. Create bit2byte folder and Copy all the files inside bit2byte folder in htdocs folder of xampp.
 3. Open XAMPP control panel and start apache and mysql server.
 4. Open localhost.com on any brower.
 5. Click on PHP my admin.
