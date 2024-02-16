@@ -1,4 +1,4 @@
-##🎓 Introducing Bit2Byte - A Novel System for Cognitive Development of Students by Empowering Academic Integrity and DSA Mastery! 🎓
+## 🎓 Introducing Bit2Byte - A Novel System for Cognitive Development of Students by Empowering Academic Integrity and DSA Mastery! 🎓
 
 We're proud to unveil our latest innovation: Bit2Byte. This cutting-edge platform is designed to revolutionize the way in which institutional academic process works.
 
@@ -15,7 +15,7 @@ Along with all this, It allows administrators to manage Faculties and Students t
 
 Together, let's empower academic integrity, foster DSA mastery, and create a brighter future for our students.
 
-###  Steps -
+### Steps -
 1. Download and Install XAMPP.
 2. Copy bit2byte folder in htdocs folder of xampp.
 3. Open XAMPP control panel and start apache and mysql server.
@@ -23,3 +23,6 @@ Together, let's empower academic integrity, foster DSA mastery, and create a bri
 5. Click on PHP my admin.
 6. Click on import and import bit2byte.sql file present in the bit2byte folder.
 7. Open new tab and enter https://localhost.com/bit2byte and use website.
+
+
+### Demo Video
