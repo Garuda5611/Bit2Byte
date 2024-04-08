@@ -8,7 +8,7 @@ We're proud to unveil our latest innovation: Bit2Byte. This cutting-edge platfor
 
 💡 <b>Unlocking Insights:</b> Through data-driven analytics, Bit2Byte offers valuable insights into student performance and learning trends. This enables our teachers to tailor their teaching strategies, optimize assignments, and create a more personalized learning experience for each student.
 
-👩‍🏫 <b>Efficient Teaching, Seamless Learning</b:</b> With Bit2Byte, our teachers can focus on what they do best: inspiring and educating the next generation of leaders. By streamlining the assignment submission process and providing intuitive tools for DSA problem-solving, we're making teaching more efficient and learning more seamless than ever before.
+👩‍🏫 <b>Efficient Teaching, Seamless Learning</b>: With Bit2Byte, our teachers can focus on what they do best: inspiring and educating the next generation of leaders. By streamlining the assignment submission process and providing intuitive tools for DSA problem-solving, we're making teaching more efficient and learning more seamless than ever before.
 
 
 Along with all this, It allows administrators to manage Faculties and Students together.
